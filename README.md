@@ -2,7 +2,7 @@
 
 ChatGPT is now available on Line! With this integration, you can talk to ChatGPT directly from your Line app. Plus, you can also use UpOCR to send images to ChatGPT, giving it additional context to generate even better responses.
 
-<img alt="image" src="https://user-images.githubusercontent.com/901975/222890453-a396085c-78f2-442b-a63c-2e210ad3f0b0.png">
+<img width="1749" alt="image" src="https://user-images.githubusercontent.com/901975/222891754-0d946890-0fde-4dd6-b124-b028fb348973.png">
 
 # Add AskUp @Line
 Just click this and add AskUp as your Line Friend. Then, kust talk. If you are in group, invite Askup and please start with @askup to talk to AskUp. 
