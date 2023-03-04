@@ -5,7 +5,8 @@ ChatGPT is now available on Line! With this integration, you can talk to ChatGPT
 <img alt="image" src="https://user-images.githubusercontent.com/901975/222890453-a396085c-78f2-442b-a63c-2e210ad3f0b0.png">
 
 # Add AskUp @Line
-Just click this and add AskUp as your Line Friend. Then, please start with @askup to talk to AskUp. (There is no way to tag a bot in Line.)
+Just click this and add AskUp as your Line Friend. Then, kust talk. If you are in group, invite Askup and please start with @askup to talk to AskUp. 
+(There is no way to tag a bot in Line.)
 
 [![image](https://user-images.githubusercontent.com/901975/222890577-dda991dc-16c4-4678-b538-07a72db9ff4a.png)](https://liff.line.me/1645278921-kWRPP32q/?accountId=249euaat)
 
