@@ -1,4 +1,4 @@
-# Line GPT
+# Line chatGPT
 
 ## User Agreement
 1. Liability: We don't guarantee the reliability of this system and are not liable for any damages arising from its use.
