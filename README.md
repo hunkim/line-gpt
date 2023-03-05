@@ -4,6 +4,17 @@ ChatGPT is now available on Line! With this integration, you can talk to ChatGPT
 
 <img width="1749" alt="image" src="https://user-images.githubusercontent.com/901975/222891754-0d946890-0fde-4dd6-b124-b028fb348973.png">
 
+## Askup Persona Feature
+Our chatbot now has a new feature that allows users to set its persona using three different comments:
+
+<img width="1578" alt="image" src="https://user-images.githubusercontent.com/901975/222971142-5f9a6ab6-5acf-40d3-841f-fcbe231adcae.png">
+
+
+* To check the current persona of the chatbot, type **"persona?"**.
+* To set a new persona for the chatbot, type **"persona: new persona"**, where "new persona" is the new persona you want to set. For example, "persona: friendly".
+* To reset the persona of the chatbot to its default state, type **"persona reset"**.
+By changing the persona of the chatbot, you can make it behave in different ways depending on your preferences. Give it a try!
+
 # Add AskUp @Line
 Just click this and add AskUp as your Line Friend. Then, kust talk. If you are in group, invite Askup and please start with @askup to talk to AskUp. 
 (There is no way to tag a bot in Line.)
