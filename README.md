@@ -16,5 +16,8 @@ Just click this and add AskUp as your Line Friend. Then, kust talk. If you are i
 2. Content: When you mention AskUp, the messages and images in the thread will be analyzed by Upstage and OpenAI for service improvement purposes. You own the content but grant Upstage and OpenAI a license to use it. 
 3. By using AskUp, you agree to these terms.
 
+## Monthly Credit
+It's free for 100 chats. 
+
 ## Comments and/or Suggestions
 Feel free to leave comments and suggestions in the issue.
