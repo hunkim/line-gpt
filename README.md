@@ -1,4 +1,5 @@
 # Line chatGPT
+<img width="348" alt="image" src="https://user-images.githubusercontent.com/901975/223314966-c2ddaef9-1b20-4f82-a3d5-5a8eb86ede2a.png">
 
 ChatGPT is now available on Line! With this integration, you can talk to ChatGPT directly from your Line app. Plus, you can also use UpOCR to send images to ChatGPT, giving it additional context to generate even better responses.
 
